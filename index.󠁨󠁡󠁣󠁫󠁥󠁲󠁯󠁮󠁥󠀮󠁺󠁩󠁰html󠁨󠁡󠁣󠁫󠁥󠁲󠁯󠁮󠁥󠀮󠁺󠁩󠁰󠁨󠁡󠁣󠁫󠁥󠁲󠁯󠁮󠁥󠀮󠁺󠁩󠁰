@@ -10,7 +10,7 @@
 		<div class="card">
 			<h1>Welcome to your static test for Unicode Poisoning!</h1>
 			<p>You can modify this app directly by editing <i>index.html</i> in the Files and versions tab.</p>
-			
+			<!-- This is a comment in HTML -->
 		</div>
 	</body>
 </html>
